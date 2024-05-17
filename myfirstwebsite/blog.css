@@ -1,0 +1,24 @@
+.header {
+    margin: 100px;
+    color: red;
+    background-image: url("r.jpg");
+    background-repeat: none;
+    background-size: 200px;
+}
+
+h3 {
+    font-size: 20px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.second {
+    /*display: none;*/
+    visibility: hidden;
+}
+
+.blog {
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
